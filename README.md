@@ -35,14 +35,14 @@ Repo para Ingenieria de Software - UTN FRC - 2022 - 4K1 - Grupo 8
 
 ## Glosario
 
-| Sigla           | Significado                                                                                                                    |
-| :-------------- | :------------------------------------------------------------------------------------------------------------------------------|
-| <TituloLibro>   | Título del libro                                                                                                               |
-| <Ux>            | U significa unidad y la x es un número incremental que indica el número de la unidad. Ej: U1, U2, Un, etc.                     |
-| <TPx>           | Indica el número del trabajo práctico de la materia Ingeniería de Software. X es un número incremental. Ej: TP1, TP2, TPn, etc |
-| <TemaEjercicio> | Indica el tema o punto del enunciado de trabajo práctico. Ej: User Stories, MVP, Código Fuente, etc.                           |
-| <TemaPPT>       | Tema de la materia ingeniería de software sobre el que trata la diapositiva.                                                   |
-| <CGx>           | Indica el número de la clase grabada. X es un número incremental. Ej: CG1, CG2, etc.                                           |
-| <NombreGuia>    | Nombre de la guía de ejercicios.                                                                                               |
-| <extension>     | Nombre de la extensión del archivo, puede estar en diferentes formatos. Ejemplo: .jpg, .jpeg, .pdf, .css, .html, .js, etc.     |                                                                                               
+| Sigla           | Significado                                                                                                                     |
+| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------|
+| \<TituloLibro>   | Título del libro                                                                                                               |
+| \<Ux>            | U significa unidad y la x es un número incremental que indica el número de la unidad. Ej: U1, U2, Un, etc.                     |
+| \<TPx>           | Indica el número del trabajo práctico de la materia Ingeniería de Software. X es un número incremental. Ej: TP1, TP2, TPn, etc |
+| \<TemaEjercicio> | Indica el tema o punto del enunciado de trabajo práctico. Ej: User Stories, MVP, Código Fuente, etc.                           |
+| \<TemaPPT>       | Tema de la materia ingeniería de software sobre el que trata la diapositiva.                                                   |
+| \<CGx>           | Indica el número de la clase grabada. X es un número incremental. Ej: CG1, CG2, etc.                                           |
+| \<NombreGuia>    | Nombre de la guía de ejercicios.                                                                                               |
+| \<extension>     | Nombre de la extensión del archivo, puede estar en diferentes formatos. Ejemplo: .jpg, .jpeg, .pdf, .css, .html, .js, etc.     |                                                                                               
 
