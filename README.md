@@ -8,30 +8,28 @@ Repo para Ingenieria de Software - UTN FRC - 2022 - 4K1 - Grupo 8
      ├─── Material_practico
      |    ├─── Clases_grabadas
      |    ├─── Guias_de_ejercicios
-     |    └─── <TPXX>
+     |    └─── <TPx>
      └─── Material_teorico
           ├─── Clases_grabadas
           ├─── Filminas
           ├─── Resumenes
           └─── Trabajos_conceptuales
-     
-
-> Para las carpetas usamos nombres en minúsculas y en vez de espacios, guiones bajos.
 
 ## Items de Configuracion
 
 | **Ítem de configuración**     | **Regla de nombrado**                             | **Ubicación Física**                                   |
 | :---------------------------- | :-----------------------------------------------  | :------------------------------------------------------|
-| Libros                        | ISW_T_Libro_<NombreLibro>.pdf                     | ISW_2022_4K1_G8/Material_bibliografico                 |
-| Resúmenes                     | ISW_T_Resumen_<Ux>_<TemaResumen>.docx             | ISW_2022_4K1_G8/Material_teorico/Resumenes             |
-| Ejercicio Resuelto            | ISW_P_<TPx>_<TemaEjercicio>.<extension>           | ISW_2022_4K1_G8/Material_practico/<TPx>/<TemaEjercicio>|
-| Diapositivas                  | ISW_T_PPT_<Ux>_<TemaPPT>.pdf                      | ISW_2022_4K1_G8/Material_teorico/Diapositivas          |
+| Libros                        | ISW_B_Libro_\<NombreLibro>.pdf                    | ISW_2022_4K1_G8/Material_bibliografico                 |
+| Resúmenes                     | ISW_T_Resumen_\<Ux>_\<TemaResumen>.docx           | ISW_2022_4K1_G8/Material_teorico/Resumenes             |
+| Ejercicio Resuelto            | ISW_P_\<TPx>_\<TemaEjercicio>.\<extension>        | ISW_2022_4K1_G8/Material_practico/<TPx>/<TemaEjercicio>|
+| Diapositivas                  | ISW_T_PPT_\<Ux>_\<TemaPPT>.pdf                    | ISW_2022_4K1_G8/Material_teorico/Diapositivas          |
 | Cronograma                    | ISW_Cronograma.md                                 | ISW_2022_4K1_G8/                                       |
-| Contactos_profesores          | ISW_Contactos.md                                  | ISW_2022_4K1_G8/                                       |
+| Contactos Profesores          | ISW_Contactos_profesores.md                       | ISW_2022_4K1_G8/                                       |
 | Datos del equipo              | ISW_DatosEquipo.md                                | ISW_2022_4K1_G8/                                       |
-| Clase grabada teórica         | ISW_T_<CGx>.md                                    | ISW_2022_4K1_G8/Material_teorico/Clases_grabadas       |
-| Clase grabada práctica        | ISW_T_<CGx>.md                                    | ISW_2022_4K1_G8/Material_practico/Clases_grabadas      |
-| Guia de ejercicios            | ISW_T_GE_<NombreGuia>.pdf                         | ISW_2022_4K1_G8/Material_teorico/Guias_de_ejercicios   |
+| Clase Grabada Teórica         | ISW_T_\<CGx>.md                                   | ISW_2022_4K1_G8/Material_teorico/Clases_grabadas       |
+| Clase Grabada Práctica        | ISW_T_\<CGx>.md                                   | ISW_2022_4K1_G8/Material_practico/Clases_grabadas      |
+| Guia de Ejercicios            | ISW_T_GE_\<NombreGuia>.pdf                        | ISW_2022_4K1_G8/Material_teorico/Guias_de_ejercicios   |
+| Trabajos Conceptuales         | ISW_T_<TPCx>_<NombreTrabajo>_<extension>          | ISW_2022_4K1_G8/Material_teorico/Trabajos_conceptuales |
 
 ## Glosario
 
@@ -44,5 +42,7 @@ Repo para Ingenieria de Software - UTN FRC - 2022 - 4K1 - Grupo 8
 | \<TemaPPT>       | Tema de la materia ingeniería de software sobre el que trata la diapositiva.                                                   |
 | \<CGx>           | Indica el número de la clase grabada. X es un número incremental. Ej: CG1, CG2, etc.                                           |
 | \<NombreGuia>    | Nombre de la guía de ejercicios.                                                                                               |
-| \<extension>     | Nombre de la extensión del archivo, puede estar en diferentes formatos. Ejemplo: .jpg, .jpeg, .pdf, .css, .html, .js, etc.     |                                                                                               
+| \<extension>     | Nombre de la extensión del archivo, puede estar en diferentes formatos. Ejemplo: .jpg, .jpeg, .pdf, .css, .html, .js, etc.     |
+| \<TPCx>          | Trabajo práctico conceptual número x, siendo x un número incremental Ej: TPC01                                                 |   
+| \<NombreTrabajo> | Nombre del trabajo conceptual realizado                                                                                        |   
 
