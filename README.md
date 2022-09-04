@@ -31,7 +31,8 @@ Repo para Ingenieria de Software - UTN FRC - 2022 - 4K1 - Grupo 8
 | Clase Grabada Teórica         | ISW_T_\<CGx>.md                                   | ISW_2022_4K1_G8/Material_teorico/Clases_grabadas       |
 | Clase Grabada Práctica        | ISW_P_\<CGx>.md                                   | ISW_2022_4K1_G8/Material_practico/Clases_grabadas      |
 | Guia de Ejercicios            | ISW_P_GE_\<NombreGuia>.pdf                        | ISW_2022_4K1_G8/Material_practico/Guias_de_ejercicios  |
-| Trabajos Conceptuales         | ISW_T_\<TPCx>_\<NombreTrabajo>.\<extension>       | ISW_2022_4K1_G8/Material_teorico/Trabajos_conceptuales |
+| Trabajo Conceptual            | ISW_T_\<TPCx>_\<NombreTrabajo>.\<extension>       | ISW_2022_4K1_G8/Material_teorico/Trabajos_conceptuales |
+| Programa Asignatura           | ISW_Programa_asignatura.pdf                       | ISW_2022_4K1_G8/                                       |
 
 ## Glosario
 
