@@ -25,14 +25,14 @@ Repo para Ingenieria de Software - UTN FRC - 2022 - 4K1 - Grupo 8
 | Resumen                       | ISW_T_Resumen_\<Ux>_\<TemaResumen>.docx           | ISW_2022_4K1_G8/Material_teorico/Resumenes             |
 | Ejercicio Resuelto            | ISW_P_\<TPx>_\<TemaEjercicio>.\<extension>        | ISW_2022_4K1_G8/Material_practico/<TPx>/<TemaEjercicio>|
 | Filminas                      | ISW_T_PPT_\<Ux>_\<TemaPPT>.pdf                    | ISW_2022_4K1_G8/Material_teorico/Filminas              |
-| Cronograma                    | ISW_Cronograma.md                                 | ISW_2022_4K1_G8/                                       |
-| Contactos Profesores          | ISW_Contactos_profesores.md                       | ISW_2022_4K1_G8/                                       |
-| Datos del equipo              | ISW_Datos_equipo.md                               | ISW_2022_4K1_G8/                                       |
+| Cronograma                    | ISW_Cronograma.md                                 | ISW_2022_4K1_G8                                        |
+| Contactos Profesores          | ISW_Contactos_profesores.md                       | ISW_2022_4K1_G8                                        |
+| Datos del equipo              | ISW_Datos_equipo.md                               | ISW_2022_4K1_G8                                        |
 | Clase Grabada Teórica         | ISW_T_\<CGx>.md                                   | ISW_2022_4K1_G8/Material_teorico/Clases_grabadas       |
 | Clase Grabada Práctica        | ISW_P_\<CGx>.md                                   | ISW_2022_4K1_G8/Material_practico/Clases_grabadas      |
 | Guia de Ejercicios            | ISW_P_GE_\<NombreGuia>.pdf                        | ISW_2022_4K1_G8/Material_practico/Guias_de_ejercicios  |
 | Trabajo Conceptual            | ISW_T_\<TPCx>_\<NombreTrabajo>.\<extension>       | ISW_2022_4K1_G8/Material_teorico/Trabajos_conceptuales |
-| Programa Asignatura           | ISW_Programa_asignatura.pdf                       | ISW_2022_4K1_G8/                                       |
+| Programa Asignatura           | ISW_Programa_asignatura.pdf                       | ISW_2022_4K1_G8                                        |
 
 ## Glosario
 
