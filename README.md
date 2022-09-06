@@ -19,7 +19,7 @@ Repo para Ingenieria de Software - UTN FRC - 2022 - 4K1 - Grupo 8
 ## Items de Configuracion
 
 | **Ítem de configuración**     | **Regla de nombrado**                             | **Ubicación Física**                                      |
-| :---------------------------- | :-----------------------------------------------  | :---------------------------------------------------------\
+| :---------------------------- | :-----------------------------------------------  | :---------------------------------------------------------|
 | Libros                        | ISW_B_Libro_\<Titulo>.pdf                         | ISW_2022_4K1_G8/Material_bibliografico                    |
 | Paper                         | ISW_B_Paper_\<Titulo>.pdf                         | ISW_2022_4K1_G8/Material_bibliografico                    |
 | Resumen                       | ISW_T_Resumen_\<Ux>_\<TemaResumen>.docx           | ISW_2022_4K1_G8/Material_teorico/Resumenes                |
