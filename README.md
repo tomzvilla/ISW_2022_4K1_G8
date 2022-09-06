@@ -49,4 +49,5 @@ Repo para Ingenieria de Software - UTN FRC - 2022 - 4K1 - Grupo 8
 | \<extension>     | Nombre de la extensión del archivo, puede estar en diferentes formatos. Ejemplo: .jpg, .jpeg, .pdf, .css, .html, .js, etc.     |
 | \<TPCx>          | Trabajo práctico conceptual número x, siendo x un número incremental Ej: TPC01                                                 |   
 | \<NombreTrabajo> | Nombre del trabajo conceptual realizado                                                                                        |   
+| \<LBx>           | Indica el número de línea base correspondiente. X es un número incremental. Ej: LB1, LB2, etc.                                 |   
 
