@@ -1,0 +1,8 @@
+El proyecto fue subido al siguiente repositorio:
+https://github.com/tsilva9/ISW_P_TP06_ImplementacionUserStory
+
+Aplicamos las siguientes hojas de estilo:
+
+JavaScript/React: AirBnB https://airbnb.io/javascript/react/
+
+SASS: BEM Notation https://sass-lang.com/styleguide/code
